@@ -2,6 +2,10 @@ awesome understanding! Please help me meticulously browse and view/navigate my c
 
 ---
 
+Please meticulously review the attached system prompt, PRD, the suggested enhancements to PRD and the suggested Prisma Schema for the project. Then meticulously plan and create the codebase.
+
+---
+
 awesome comparative analysis assessment! please meticulously plan and then create the complete updated replacement PRD that combines the best of both PRDs, namely your hybrid approach.
 
 ---
